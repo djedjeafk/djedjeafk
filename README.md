@@ -220,19 +220,6 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer">
-</div>
-
-<br>
-
-<!-- SPOTIFY / MUSIC VIBES -->
-<div align="center">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31ozcvvq3bzq3lnilpdqusl6jxoq&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=6C63FF" alt="Spotify" />
-</div>
-
-<br>
-
 <!-- OPEN TO WORK -->
 <div align="center">
   

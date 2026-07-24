@@ -59,7 +59,7 @@ currently_learning:
   - "AI Agents (Hermes, OpenClaw)"
   - "SAP"
   - "MariaDB, MySQL, Redis, Qdrant, Oracle, MongoDB, PostgreSQL, Elastic Search, SQL Server, AWS"
-  - "Vibe Coding (Cursor, Copilot, Kiro, Windsurf)"
+  - "Vibe Coding (Kiro CLI)"
 
 interests:
   - "🐧 Linux Enthusiast - love tinkering with everything Linux"

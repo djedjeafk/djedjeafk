@@ -205,8 +205,30 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<br>
+
+<!-- ANIMATED DECORATIONS -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer">
+</div>
+
+<br>
+
+<!-- SPOTIFY / MUSIC VIBES -->
+<div align="center">
+  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31ozcvvq3bzq3lnilpdqusl6jxoq&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=6C63FF" alt="Spotify" />
 </div>
 
 <br>

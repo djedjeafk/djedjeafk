@@ -77,6 +77,24 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
+<!-- SKILL PROGRESS BARS -->
+## 📊 Skill Level
+
+```text
+Database Administration   ████████████████████░░   90%
+Linux System Admin        ████████████████████░░   85%
+Workflow Automation (n8n) ████████████████░░░░░░   75%
+Shell Scripting           ████████████████░░░░░░   75%
+Docker & Containers       ██████████████░░░░░░░░   65%
+SAP                       ████████████░░░░░░░░░░   55%
+AI Agents                 ████████████░░░░░░░░░░   55%
+AWS Cloud                 ██████████░░░░░░░░░░░░   50%
+Python                    ██████████░░░░░░░░░░░░   50%
+Kubernetes                ████████░░░░░░░░░░░░░░   40%
+```
+
+<br>
+
 <!-- CAREER HIGHLIGHTS -->
 ## 🎯 Career Highlights
 
@@ -189,8 +207,26 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
+<!-- FEATURED PROJECTS -->
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:--------|:------------|:----:|
+| 🤖 **n8n Automation Workflows** | Custom automation workflows for daily tasks | `n8n` `API` |
+| 🗄️ **Multi-DB Manager** | Scripts to manage & monitor multiple database engines | `Shell` `Python` |
+| 🐧 **Linux Server Setup** | Automated server provisioning & hardening scripts | `Bash` `Ansible` |
+| 🧠 **AI Agent Bot** | AI-powered assistant using Hermes & OpenClaw | `Python` `AI` |
+
+</div>
+
+> 💡 *Repositories akan segera dipublikasikan. Stay tuned!*
+
+<br>
+
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   

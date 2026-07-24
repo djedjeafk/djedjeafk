@@ -187,7 +187,7 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 </div>
 

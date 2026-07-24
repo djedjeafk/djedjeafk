@@ -1,14 +1,14 @@
 <!-- HEADER BANNER -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=djedjeafk&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=djedjeafk&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+IT+Database+%7C+Automation+Enthusiast;%F0%9F%90%A7+Linux+Lover+%26+Tech+Explorer;%F0%9F%A4%96+AI+Agent+%7C+n8n+%7C+SAP)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+Profile!;%F0%9F%92%BB+IT+Database+Admin;%F0%9F%90%A7+Linux+Lover;%F0%9F%A4%96+AI+Agent+%7C+n8n+%7C+SAP)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,11 +25,12 @@
 <!-- PROFESSIONAL SUMMARY -->
 ## 💼 Professional Summary
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 > **IT Database Administrator** with hands-on experience managing multi-engine database environments (MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant). Passionate about automating workflows using n8n & AI Agents, with strong Linux system administration skills. Currently expanding expertise in SAP, cloud infrastructure (AWS), and AI-powered automation.
 
-<br clear="right">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding">
+</div>
+
 <br>
 
 <!-- CONNECT WITH ME -->
@@ -81,10 +82,13 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <div align="center">
 
-| 🗄️ | 🤖 | 🐧 | ☁️ |
-|:---:|:---:|:---:|:---:|
-| **10+** Database Engines | **Workflow Automation** | **Linux** SysAdmin | **AWS** Cloud |
-| MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant | n8n, Visual Basic, AI Agents | Ubuntu, Debian, Fedora, openSUSE | Docker, Kubernetes, VMware |
+🗄️ **10+ Database Engines** — MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant
+
+🤖 **Workflow Automation** — n8n, Visual Basic, AI Agents
+
+🐧 **Linux SysAdmin** — Ubuntu, Debian, Fedora, openSUSE
+
+☁️ **Cloud & Infra** — AWS, Docker, Kubernetes, VMware
 
 </div>
 
@@ -94,6 +98,8 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 ## 🛠️ Tech Stack
 
 #### 💻 Languages
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -101,7 +107,11 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+</div>
+
 #### 🗄️ Databases
+<div align="center">
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -113,13 +123,21 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</div>
+
 #### 🤖 Automation & AI
+<div align="center">
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🐧 Operating Systems & Tools
+</div>
+
+#### 🐧 Operating Systems
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -127,7 +145,11 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+</div>
+
 #### ☁️ Infrastructure & Deployment
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -135,32 +157,35 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
+</div>
+
 #### 🔧 Tools & Others
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 <br>
 
 <!-- WHAT I DO -->
 ## 🚀 What I Do
 
-<img align="left" alt="Database" width="120" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">
-
 <div align="center">
 
-| 🗄️ Database Admin | 🤖 Automation | 🐧 Linux | ☁️ Cloud & Infra |
-|:---:|:---:|:---:|:---:|
-| Design, optimize & manage databases across multiple engines | Build workflows with n8n & Visual Basic to automate repetitive tasks | Set up, configure & maintain Linux servers | Deploy & manage containerized applications |
-| Performance tuning & monitoring | AI Agent integration (Hermes, OpenClaw) | Shell scripting & system administration | Docker, Kubernetes, AWS |
+**🗄️ Database Admin** — Design, optimize & manage databases across multiple engines
+
+**🤖 Automation** — Build workflows with n8n & Visual Basic, AI Agent integration
+
+**🐧 Linux** — Set up, configure & maintain Linux servers, shell scripting
+
+**☁️ Cloud & Infra** — Deploy & manage containerized apps with Docker, Kubernetes, AWS
 
 </div>
-
-<br clear="left">
-
-<br>
 
 <br>
 
@@ -169,14 +194,19 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=djedjeafk&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=djedjeafk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=djedjeafk&theme=tokyonight&hide_border=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djedjeafk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=djedjeafk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djedjeafk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
 </div>
 
@@ -200,13 +230,6 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
-<!-- FUN ANIMATIONS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
 <!-- ANIMATED DECORATIONS -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -214,8 +237,15 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
+<!-- FUN ANIMATIONS -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" alt="Coding">
 </div>
 
 <br>
@@ -236,6 +266,6 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 <!-- FOOTER -->
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>

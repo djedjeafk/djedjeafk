@@ -80,17 +80,17 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 <!-- SKILL PROGRESS BARS -->
 ## 📊 Skill Level
 
-```text
-Database Administration    ████████████████████░░  90%
-Linux System Admin         █████████████████░░░░░  85%
-Workflow Automation (n8n)  ███████████████░░░░░░░  75%
-Shell Scripting            ███████████████░░░░░░░  75%
-Docker & Containers        █████████████░░░░░░░░░  65%
-SAP                        ███████████░░░░░░░░░░░  55%
-AI Agents                  ███████████░░░░░░░░░░░  55%
-AWS Cloud                  ██████████░░░░░░░░░░░░  50%
-Python                     ██████████░░░░░░░░░░░░  50%
-Kubernetes                 ████████░░░░░░░░░░░░░░  40%
+```
+Database Administration  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀  90%
+Linux System Admin       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀  85%
+Automation (n8n)         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀  75%
+Shell Scripting          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀  75%
+Docker & Containers      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀  65%
+SAP                      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀  55%
+AI Agents                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀  55%
+AWS Cloud                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  50%
+Python                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  50%
+Kubernetes               ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  40%
 ```
 
 <br>

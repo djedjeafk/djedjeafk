@@ -130,12 +130,15 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
-<!-- TROPHY -->
-## 🏆 GitHub Trophies
+<!-- WHAT I DO -->
+## 🚀 What I Do
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=djedjeafk&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+| 🗄️ Database Admin | 🤖 Automation | 🐧 Linux | ☁️ Cloud & Infra |
+|:---:|:---:|:---:|:---:|
+| Design, optimize & manage databases across multiple engines | Build workflows with n8n & Visual Basic to automate repetitive tasks | Set up, configure & maintain Linux servers | Deploy & manage containerized applications |
+| Performance tuning & monitoring | AI Agent integration (Hermes, OpenClaw) | Shell scripting & system administration | Docker, Kubernetes, AWS |
 
 </div>
 

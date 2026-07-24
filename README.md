@@ -110,14 +110,14 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=djedjeafk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=djedjeafk&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=djedjeafk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djedjeafk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djedjeafk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
 </div>
 

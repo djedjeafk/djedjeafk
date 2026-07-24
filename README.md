@@ -25,8 +25,11 @@
 <!-- PROFESSIONAL SUMMARY -->
 ## 💼 Professional Summary
 
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 > **IT Database Administrator** with hands-on experience managing multi-engine database environments (MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant). Passionate about automating workflows using n8n & AI Agents, with strong Linux system administration skills. Currently expanding expertise in SAP, cloud infrastructure (AWS), and AI-powered automation.
 
+<br clear="right">
 <br>
 
 <!-- CONNECT WITH ME -->
@@ -144,6 +147,8 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 <!-- WHAT I DO -->
 ## 🚀 What I Do
 
+<img align="left" alt="Database" width="120" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">
+
 <div align="center">
 
 | 🗄️ Database Admin | 🤖 Automation | 🐧 Linux | ☁️ Cloud & Infra |
@@ -152,6 +157,8 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 | Performance tuning & monitoring | AI Agent integration (Hermes, OpenClaw) | Shell scripting & system administration | Docker, Kubernetes, AWS |
 
 </div>
+
+<br clear="left">
 
 <br>
 
@@ -189,6 +196,17 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
   
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
+</div>
+
+<br>
+
+<!-- FUN ANIMATIONS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding">
 </div>
 
 <br>

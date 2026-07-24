@@ -155,16 +155,6 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
-<!-- CERTIFICATIONS -->
-## 📜 Certifications & Learning
-
-<!-- Ganti atau tambah sertifikasi yang kamu punya -->
-| Certificate | Issuer | Year |
-|:---|:---|:---:|
-| 🎓 *Tambahkan sertifikasi kamu di sini* | - | - |
-
-> 💡 *Tip: Tambahkan sertifikasi seperti AWS Certified, Oracle DBA, SAP Certified, dll.*
-
 <br>
 
 <!-- GITHUB STATS -->

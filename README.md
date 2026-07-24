@@ -22,6 +22,28 @@
 
 <br>
 
+<!-- PROFESSIONAL SUMMARY -->
+## 💼 Professional Summary
+
+> **IT Database Administrator** with hands-on experience managing multi-engine database environments (MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant). Passionate about automating workflows using n8n & AI Agents, with strong Linux system administration skills. Currently expanding expertise in SAP, cloud infrastructure (AWS), and AI-powered automation.
+
+<br>
+
+<!-- CONNECT WITH ME -->
+## 📫 Connect with Me
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI_USERNAME_LINKEDIN)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GANTI_EMAIL@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GANTI_USERNAME)
+
+</div>
+
+<!-- Ganti link di atas dengan info kontak kamu yang sebenarnya -->
+
+<br>
+
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -48,6 +70,20 @@ interests:
 ask_me_about: "Databases, Linux, Automation, SAP"
 fun_fact: "If it can be automated, I'll automate it 🤖"
 ```
+
+<br>
+
+<!-- CAREER HIGHLIGHTS -->
+## 🎯 Career Highlights
+
+<div align="center">
+
+| 🗄️ | 🤖 | 🐧 | ☁️ |
+|:---:|:---:|:---:|:---:|
+| **10+** Database Engines | **Workflow Automation** | **Linux** SysAdmin | **AWS** Cloud |
+| MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, MariaDB, Redis, Elasticsearch, Qdrant | n8n, Visual Basic, AI Agents | Ubuntu, Debian, Fedora, openSUSE | Docker, Kubernetes, VMware |
+
+</div>
 
 <br>
 
@@ -105,6 +141,32 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
+<!-- WHAT I DO -->
+## 🚀 What I Do
+
+<div align="center">
+
+| 🗄️ Database Admin | 🤖 Automation | 🐧 Linux | ☁️ Cloud & Infra |
+|:---:|:---:|:---:|:---:|
+| Design, optimize & manage databases across multiple engines | Build workflows with n8n & Visual Basic to automate repetitive tasks | Set up, configure & maintain Linux servers | Deploy & manage containerized applications |
+| Performance tuning & monitoring | AI Agent integration (Hermes, OpenClaw) | Shell scripting & system administration | Docker, Kubernetes, AWS |
+
+</div>
+
+<br>
+
+<!-- CERTIFICATIONS -->
+## 📜 Certifications & Learning
+
+<!-- Ganti atau tambah sertifikasi yang kamu punya -->
+| Certificate | Issuer | Year |
+|:---|:---|:---:|
+| 🎓 *Tambahkan sertifikasi kamu di sini* | - | - |
+
+> 💡 *Tip: Tambahkan sertifikasi seperti AWS Certified, Oracle DBA, SAP Certified, dll.*
+
+<br>
+
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
@@ -130,26 +192,25 @@ fun_fact: "If it can be automated, I'll automate it 🤖"
 
 <br>
 
-<!-- WHAT I DO -->
-## 🚀 What I Do
-
-<div align="center">
-
-| 🗄️ Database Admin | 🤖 Automation | 🐧 Linux | ☁️ Cloud & Infra |
-|:---:|:---:|:---:|:---:|
-| Design, optimize & manage databases across multiple engines | Build workflows with n8n & Visual Basic to automate repetitive tasks | Set up, configure & maintain Linux servers | Deploy & manage containerized applications |
-| Performance tuning & monitoring | AI Agent integration (Hermes, OpenClaw) | Shell scripting & system administration | Docker, Kubernetes, AWS |
-
-</div>
-
-<br>
-
 <!-- RANDOM DEV QUOTE -->
 ## ✍️ Random Dev Quote
 
 <div align="center">
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+<!-- OPEN TO WORK -->
+<div align="center">
+  
+  ### 💼 Open to Opportunities
+  
+  I'm open to roles in **Database Administration**, **IT Infrastructure**, **Automation Engineering**, and **SAP** related positions. If you have an opportunity that matches my skills, feel free to reach out!
+
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI_USERNAME_LINKEDIN)
 
 </div>
 
